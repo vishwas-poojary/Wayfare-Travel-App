@@ -13,8 +13,7 @@ Built for the Design Esthetics front-end assignment.
 
 ## Live link
 
-_Add your deployed URL here after deploying (Vercel/Netlify/GitHub Pages)._
-
+https://wayfare-travel-app-git-main-vishwas17.vercel.app/
 ## Features
 
 - **Landing hero** — full-bleed looping background video with a graceful
